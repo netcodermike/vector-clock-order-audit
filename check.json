@@ -1,0 +1,11 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "ordered": 4,
+    "concurrent": 1,
+    "equal": 1
+  }
+}
